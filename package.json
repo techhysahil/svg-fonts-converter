@@ -1,0 +1,13 @@
+{
+  "name": "svg-fonts Converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Sahil Gupta <sahilkkrazy@gmail.com> (http://techhysahil.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-webfont": "^1.6.0"
+  }
+}

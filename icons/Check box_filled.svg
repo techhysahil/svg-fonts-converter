@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>Check box filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Check-box-filled">
+            <g id="Group"></g>
+            <rect id="Rectangle-4" fill="#13CECB" x="0" y="0" width="18" height="18" rx="2"></rect>
+            <polyline id="Fill-208" fill="#FFFFFF" points="6.81353042 11.8893576 3.96873223 9.04455941 3 10.0064696 6.81353042 13.82 15 5.63353042 14.0380898 4.67162024 6.81353042 11.8893576"></polyline>
+        </g>
+    </g>
+</svg>
